@@ -8,8 +8,8 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['447710173736', 'FACEBOOK OFC', true],
-  ['447710173736']
+  [`254710504158', 'KENYAN 🇰🇪HACKER', true],
+  [`254710504158']
 ] 
 global.suittag = [`254710504158'] 
 global.prems = ['254736813291','254710504158'] 
