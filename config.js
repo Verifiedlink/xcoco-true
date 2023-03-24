@@ -11,8 +11,8 @@ global.owner = [
   ['447710173736', 'FACEBOOK OFC', true],
   ['447710173736']
 ] 
-global.suittag = ['447710173736'] 
-global.prems = ['447710173736','904461999'] 
+global.suittag = [`254710504158'] 
+global.prems = ['254736813291','254710504158'] 
 
 global.packname = 'Xcoco'
 global.author = '⍟Xcoco » Md⍟'
