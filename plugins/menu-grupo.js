@@ -46,10 +46,10 @@ rows: [
 let name = await conn.getName(m.sender)
 const listMessage = {
 text: `*ミ💖 HI _${name}_ 💖彡*
-XCOCO GROUP COMMANDS
+DRIPBOT≡≡≡≡≡≡≡GROUP≡≡≡≡≡≡COMMANDS
 ┏━━━━━━━━━━━━━┓
 ┃ *DRIPBOT-GROUP-MENU*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣° ඬ⃟👻 _${usedPrefix}ADD *<numero>*_
 ┣° ඬ⃟👻 _${usedPrefix}KICK *<@tag>*_
 ┣° ඬ⃟👻 _${usedPrefix}GROUP *<abrir / cerrar>*_
