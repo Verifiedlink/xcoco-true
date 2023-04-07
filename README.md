@@ -12,19 +12,19 @@
 <a href="https://github.com/NeKosmic-NK"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=just+write+if+have+doubts." height="40px"
 </p>
   
-<a href="http://wa.me/94764497078" target="blank"><img src="https://img.shields.io/badge/Xcoco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/254710504158" target="blank"><img src="https://img.shields.io/badge/Xcoco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://chat.whatsapp.com/Eec9Dd1uVd90Ac0U8mTgUh" target="red"><img src="https://img.shields.io/badge/Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
+<a href="https://chat.whatsapp.com/KDL1QGmR5kNLOJeuyqS9Or" target="red"><img src="https://img.shields.io/badge/Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
 </a>
   
 
 <p align="hihg">   
 <a href="https://instagram.com/shizu.bot" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank"></a>
   
-> NUMBERS ARE NOT BOTS AND NUMBERS-BOTS ARE NOT ALLOWED IN THE GROUP
+> DON'T JOIN WITH THE NUMBER YOUR BOT IS USING WE DONT ALLOW BOTS NUMBER 
 
 ### `—◉ 💰 DONATE 💰`
-- THANK WITH A VOLUNTARY DONATION [Here](https://www.paypal.me/NeKosmicOFC)
+- [SUBSCRIBE](https://www.youtube.com/@TRADERSCENTERNETWORK)
 
 ### `—◉ 🖍 BOT LETTER 🖍`
 - PAGE USED FOR THE LETTER [Here](https://smiley.cool/es/weirdmaker.php)
