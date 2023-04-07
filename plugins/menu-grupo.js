@@ -48,31 +48,31 @@ const listMessage = {
 text: `*ミ💖 HI _${name}_ 💖彡*
 XCOCO GROUP COMMANDS
 ┏━━━━━━━━━━━━━┓
-┃ *<GROUP MENU>*
+┃ *DRIPBOT-GROUP-MENU*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-┣° ඬ⃟💎 _${usedPrefix}add *<numero>*_
-┣° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
-┣° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
-┣° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
-┣° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-┣° ඬ⃟💎 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
-┣° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-┣° ඬ⃟💎 _${usedPrefix}infogroup_
-┣° ඬ⃟💎 _${usedPrefix}link_
-┣° ඬ⃟💎 _${usedPrefix}setname *<texto>*_
-┣° ඬ⃟💎 _${usedPrefix}setdesc *<texto>*_
-┣° ඬ⃟💎 _${usedPrefix}invocar *<texto>*_
-┣° ඬ⃟💎 _${usedPrefix}setwelcome *<texto>*_
-┣° ඬ⃟💎 _${usedPrefix}setbye *<texto>*_
-┣° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
-┣° ඬ⃟💎 _${usedPrefix}fantasmas_
-┣° ඬ⃟💎 _${usedPrefix}destraba_
-┣° ඬ⃟💎 _${usedPrefix}grouptime *<opcion> <tiempo>*_
-┣° ඬ⃟💎 _${usedPrefix}warn <@tag>_
-┣° ඬ⃟💎 _${usedPrefix}unwarn <@tag>_
-┣° ඬ⃟💎 _${usedPrefix}listwarn_
-┣° ඬ⃟💎 _${usedPrefix}resetlink_
-┗━━━━━━━━━━━━━┛`, footer: `${wm}`, pp,
+┣° ඬ⃟👻 _${usedPrefix}ADD *<numero>*_
+┣° ඬ⃟👻 _${usedPrefix}KICK *<@tag>*_
+┣° ඬ⃟👻 _${usedPrefix}GROUP *<abrir / cerrar>*_
+┣° ඬ⃟👻 _${usedPrefix}PROMOTE*<@tag>*_
+┣° ඬ⃟👻 _${usedPrefix}DEMOTE *<@tag>*_
+┣° ඬ⃟👻 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+┣° ඬ⃟👻 _${usedPrefix}demote *<@tag>*_
+┣° ඬ⃟👻 _${usedPrefix}infogroup_
+┣° ඬ⃟👻 _${usedPrefix}link_
+┣° ඬ⃟👻 _${usedPrefix}setname *<texto>*_
+┣° ඬ⃟👻 _${usedPrefix}setdesc *<texto>*_
+┣° ඬ⃟👻 _${usedPrefix}invocar *<texto>*_
+┣° ඬ⃟👻 _${usedPrefix}setwelcome *<texto>*_
+┣° ඬ⃟👻 _${usedPrefix}setbye *<texto>*_
+┣° ඬ⃟👻 _${usedPrefix}hidetag *<texto>*_
+┣° ඬ⃟👻 _${usedPrefix}fantasmas_
+┣° ඬ⃟👻 _${usedPrefix}destraba_
+┣° ඬ⃟👻 _${usedPrefix}grouptime *<opcion> <tiempo>*_
+┣° ඬ⃟👻 _${usedPrefix}warn <@tag>_
+┣° ඬ⃟👻 _${usedPrefix}unwarn <@tag>_
+┣° ඬ⃟👻 _${usedPrefix}listwarn_
+┣° ඬ⃟👻 _${usedPrefix}resetlink_
+┗━━━━━━━KENYAN-HACKER━━━━━━┛_`,footer: `${wm}`, pp,
 title: null,
 buttonText: "LIST MENU", 
 sections }
