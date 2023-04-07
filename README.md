@@ -86,7 +86,7 @@ TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 - Black-KDX IS NOT RESPONSIBLE FOR THE USE, NUMBERS, PRIVACY AND CONTENT SENT, USED OR MANAGED BY YOU OR THE BOT
 
 ## `BOT CONTRIBUTORS`
-  <a href="https://github.com/sandaru07"><img src="https://telegra.ph/file/465c03d85d559d2f1fa65.jpg" width="100" height="100" alt="theh2so4"/></a>
+  <a href="https://github.com/sandaru07"><img src="https://i.imgur.com/hjRzgfd.jpeg" width="100" height="100" alt="theh2so4"/></a>
 <a href="https://github.com/"><img src="https://i.imgur.com/4dchVdo.jpeg" width="100" height="100" alt="BrunoSobrino"/></a>
 
 ## `EDITOR AND OWNER OF THE BOT` 
