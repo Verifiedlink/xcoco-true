@@ -90,6 +90,6 @@ TYPE THE FOLLOWING COMMANDS ONE BY ONE:
 <a href="https://github.com/"><img src="https://telegra.ph/file/465c03d85d559d2f1fa65.jpg" width="100" height="100" alt="BrunoSobrino"/></a>
 
 ## `EDITOR AND OWNER OF THE BOT` 
-<a href="https://github.com/sandaru07"><img src="https://github.com/Shizu-Hub.png" width="300" height="300" alt="Shizu"/></a>
+<a href="https://github.com/Verifiedlink"><img src="https://i.imgur.com/4dchVdo.jpeg" width="300" height="300" alt="Kenyan hacker"/></a>
 
-`Xcoco Md _ By SANDARU`
+`DRIPBOT Md _ By STEVE THE HACKER TECH`
