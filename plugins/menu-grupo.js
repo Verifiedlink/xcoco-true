@@ -28,9 +28,9 @@ const sections = [
 {
 title: `LIST`
 rows: [
-      {title: "🥵 CREATER 🥵", description: 'CONTACT XCOCO CREATER', rowId: `${usedPrefix}creador`},
-      {title: "🎁 ALL MENU 🎁", description: 'ALL COMMANDS', rowId: `${usedPrefix}allmenu`},
-      {title: "💎 GROUP MENU 💎", description: 'GROUPS COMMANDS', rowId: `${usedPrefix}menugrupo`},
+      {title: "☠️ CREATER ☠️", description: 'CONTACT DRIPBOT☠️ CREATER', rowId: `${usedPrefix}creador`},
+      {title: "☠️ FULL MENU ☠️", description: 'ALL DRIPBOT MENU', rowId: `${usedPrefix}allmenu`},
+      {title: "☠️ GROUP MENU ☠️", description: 'GROUPS COMMANDS', rowId: `${usedPrefix}menugrupo`},
       {title: "🎮 GAME MENU 🎮", description: 'GAMES COMMANDS', rowId: `${usedPrefix}menujuegos`},
       {title: "🔊 AUDIO MENU 🔊", description: 'AUDIO COMMANDS', rowId: `${usedPrefix}menuaudios`},
       {title: "👽 STICKER MENU 👽", description: 'STICKER COMMANDS', rowId: `${usedPrefix}menusticker`},
